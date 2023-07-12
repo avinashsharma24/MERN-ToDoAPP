@@ -25,8 +25,8 @@ function App() {
 
       <div className="container">
 
-        <h1>What's the Plan for Today?</h1>
-
+       <div>  <h1>POST YOUR TASKS HERE</h1> </div>
+ 
         <div className="top">
           <input
             type="text"

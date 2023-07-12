@@ -18,7 +18,7 @@ mongoose
         useNewUrlParser: true,
         useUnifiedTopology: true
     })
-    .then(() => console.log("Connected to DB...."))
+    .then(() => console.log("Connected to ...."))
     .catch((err) => console.error(err));
 
 // Routes
